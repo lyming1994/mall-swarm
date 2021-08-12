@@ -17,7 +17,7 @@ public interface EsProductService {
     int importAll();
 
     /**
-     * 根据id删除商品
+     * 根据id删除商品111
      */
     void delete(Long id);
 
